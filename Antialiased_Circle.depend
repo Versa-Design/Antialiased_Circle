@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685274811 source:d:\proyectos\2022013_ing293_hayward_universal_user_interface\private\versa_antialiasing_circle_repository\antialiased_circle\main.c
+	<windows.h>
+	<realtimeapiset.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
