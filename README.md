@@ -68,6 +68,6 @@ void GrDrawFilledCircleAntialiased(uint16_t x0, uint16_t y0, uint16_t r)
 If additional speed improvement is needed, a four-quadrant drawing strategy with a for-loop premature break can be followed.
 This novel technique can do the complete filled circle computation without using floating point arithmetic nor square roots, yet providing a very accurate and smoothed edge visual representation. This algorithm can be used in processors with very limited resources, since only involves multiplications, additions and divisions of integer numbers.
 
-![10 pixel radius antialiased Circle Example](https://github.com/Versa-Design/Antialiased_Circle/antialiased_circle_10px_example.png)
+![10 pixel radius antialiased Circle Example](antialiased_circle_10px_example.png)
 
 
